@@ -20,3 +20,5 @@ for use with neptune only (because it needs textmode)
 7. have fun botting and then getting E43'd in the process
 
 expect volvo to eviscerate your accounts DoesHotter style if you actively do botting, be warned as i am not responsible for this
+
+if you have an issue go take it to their complaint center: https://discord.gg/4MmHZfT3Su
